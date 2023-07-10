@@ -3,7 +3,7 @@
 2. Vera Achiaa Owusu - 10923847
 3. Herbert Ansah Akrofi - 10923111
 
-# Sentiment Analysis towards Post COVID-19 Taxes
+# Natural Language Processing with Disaster Tweets
 ## Documentation
 
 ## Overview
