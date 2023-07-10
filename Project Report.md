@@ -1,7 +1,7 @@
 # Group Members
-Bless Ziamah - 10922782
-Vera Achiaa Owusu - 10923847
-Herbert Ansah Akrofi - 10923111
+1. Bless Ziamah - 10922782
+2. Vera Achiaa Owusu - 10923847
+3. Herbert Ansah Akrofi - 10923111
 
 # Sentiment Analysis towards Post COVID-19 Taxes
 ## Documentation
