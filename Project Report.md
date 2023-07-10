@@ -16,10 +16,10 @@ Twitter has become an important communication channel in times of emergency. The
 The following steps were taken to tackle the problem:
 1. Data Collection: The data was already provided by Kaggle in CSV format. We read the CSV file and converted it to a data frame.
 2. Data Preprocessing: The data we collected went through various preprocessing stages to make them clean and uniform. The cleaning is done using regular expressions. Using regular expressions, hashtags, retweets, URLs, emojis, newlines, and stop words are removed.
-3. Training Data: The data was passed through different models like Linear Regression, Support Vector Classifier (SVC), and Multinomial NB.
+3. Training Data: The data was passed through different models like Logistic Regression, Support Vector Classifier (SVC), and Multinomial NB.
 4. Visualization: Here we visualize the performance of all the models to see how well they were able to predict if a tweet is talking about a disaster or not.
 
 ## Findings
-Linear Regression Outperforms Support Vector Classifier (SVC) and Multinomial Naive Bayes (NB)
+Logistic Regression Outperforms Support Vector Classifier (SVC) and Multinomial Naive Bayes (NB)
 The performance of each model was evaluated based on various metrics such as accuracy, precision, recall, and F1-score.
-Based on these findings, it can be concluded that Linear Regression is the most suitable model for this specific dataset and task.
+Based on these findings, it can be concluded that Logistic Regression is the most suitable model for this specific dataset and task.
